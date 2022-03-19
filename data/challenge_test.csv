@@ -1,0 +1,199 @@
+id,name,mana,attack,health,type,god
+100042,Walking Plant,1,1,1,creature,nature
+1018,Black Jaguar,2,3,3,creature,nature
+129,Avatar of Death,6,6,6,creature,death
+87069,Mind Jolt,5,0,0,spell,magic
+1090,Minotaur Phalanx,6,4,8,creature,neutral
+1187,Signal Scouts,3,0,0,spell,war
+1008,Rapture Dance,6,0,0,spell,deception
+343,"Deception, Unshrouded",7,0,0,spell,deception
+100119,Flip,3,0,0,god power,deception
+402,Blessed Chimera,7,4,4,creature,neutral
+1014,Raise Dead,5,0,0,spell,death
+1182,Spellsight Seer,1,2,2,creature,magic
+1024,Blade of Styx,3,3,2,weapon,war
+86,Read The Leaves,2,0,0,spell,magic
+334,Sharpen,2,0,0,spell,war
+1075,Solemn Lecturer,4,2,4,creature,neutral
+113,Anhotep the Embalmer,7,8,8,creature,death
+100109,Reanimate,3,0,0,god power,death
+100045,Box,1,0,0,spell,neutral
+1132,The Old Ritual,4,0,0,spell,death
+100114,Onslaught,2,0,0,god power,war
+264,Odin's Whiteraven,2,1,1,creature,war
+100052,Concealed Anim,2,3,2,creature,neutral
+844,Caller of the Hunt,6,5,5,creature,nature
+1096,Duergar Priest,2,2,2,creature,neutral
+1214,Bronze Servant,3,2,4,creature,neutral
+100103,Netherbeast,4,3,3,creature,death
+1021,Penitence,7,0,0,spell,light
+1117,Canopy Barrage,2,0,0,spell,nature
+146,Mistress Scythia,3,2,1,creature,nature
+100124,Cheat,2,0,0,god power,deception
+826,"Selena, Champion of Nature",4,3,4,creature,nature
+212,"Alexis, Archon's Sword",8,5,7,creature,light
+161,Apocalypse Now,7,0,0,spell,death
+1052,Warmonger Smith,2,2,4,creature,war
+23,Portal Wrangler,4,3,4,creature,magic
+14,Healing Insight,1,0,0,spell,light
+1236,Light's Levy,3,0,0,spell,light
+87018,Rotting Mount,6,6,5,creature,neutral
+100135,Netherling,2,2,2,creature,neutral
+83,"Death, Unborn",8,0,0,spell,death
+176,Dense Fog,1,0,0,spell,nature
+333,Needle-Fang Chameleon,1,2,2,creature,deception
+385,Firewall,4,1,5,creature,neutral
+879,"Isadora, Daring Patrician",6,1,2,creature,light
+50,Anputian Magus,5,2,4,creature,neutral
+1253,Dart Maniac,2,1,3,creature,neutral
+1169,Wiccan Warrior,1,2,2,creature,neutral
+142,Chainflip,3,0,0,spell,magic
+37,Spiral Golem,6,8,10,creature,neutral
+1246,Sip of Elixir,2,0,0,spell,magic
+908,Dragon of the First Pillar,7,5,5,creature,light
+135,Fertility Idol,7,0,6,creature,nature
+237,Field Martyr,3,0,1,creature,neutral
+205,Contagious Ghoul,1,2,2,creature,death
+930,Priestess of Takhat,1,2,2,creature,death
+900,Student of Truth,2,3,2,creature,neutral
+1089,Stormstress,6,4,5,creature,neutral
+877,Parthene Shieldmate,3,3,3,creature,light
+1068,Helios Battlesworn,5,5,6,creature,neutral
+1205,Hoplite,2,3,2,creature,neutral
+102,Me Two Three,1,0,0,spell,deception
+1151,Ogre Archer,5,3,3,creature,neutral
+1101,Wildfire,4,0,0,spell,nature
+1190,Recovering Sigil,2,0,0,spell,light
+287,The Cleansing,3,0,0,spell,light
+1037,Oni Spellsword,3,1,3,creature,magic
+190,Ares' Eruption,3,0,0,spell,nature
+349,Shadow Slash,4,0,0,spell,magic
+353,Sign of Avarice,4,3,3,creature,neutral
+1220,Ambitious Adventurer,2,1,1,creature,neutral
+296,Swashbuckler,1,1,1,creature,neutral
+49,The Black Argo,5,4,6,creature,neutral
+132,Namebinder Zal'zie,1,1,3,creature,neutral
+1010,Blackblood Blast,6,0,0,spell,death
+1219,Tough Townsfolk,1,1,3,creature,neutral
+907,Shadow of Lethenon,1,1,1,creature,deception
+821,Archvisionist,5,4,5,creature,magic
+87042,Conversion,4,0,0,spell,light
+35,Rolling Watcher,2,0,3,creature,neutral
+144,"Tyr, The Just",7,5,9,creature,war
+1098,Felid Protector,1,2,2,creature,neutral
+928,Selena's Insight,6,0,0,spell,nature
+217,Grass Roots,3,0,0,spell,nature
+235,Wind-Up Roller,2,3,2,creature,neutral
+130,Mana Thief,5,3,1,creature,deception
+1242,Thaumnetic Golem,6,5,7,creature,neutral
+895,Militant Extortionist,1,3,1,creature,neutral
+101,Heka's Enchantress,1,1,2,creature,magic
+100035,Voyage To The Farlands,1,0,0,spell,neutral
+38,Hurl Weapon,1,0,0,spell,war
+233,Sonic Juggernaut,5,4,5,creature,neutral
+869,Lead the Charge,2,0,0,spell,war
+313,Engaged Enchanter,2,2,3,creature,magic
+165,Incoming Raid,4,0,0,spell,war
+363,Sothek,7,4,5,creature,nature
+207,Peculiar Spellwyrm,1,2,6,creature,neutral
+162,Tormentor Fiend,6,6,5,creature,war
+336,Kidnapper,6,1,6,creature,deception
+1249,Wyrmbreath,4,0,0,spell,magic
+71,Ragnarok,1,0,0,spell,death
+1193,Bladecaster,2,2,3,creature,war
+100073,Mana Bind,3,0,0,spell,deception
+891,Desert Mercenary,3,3,3,creature,neutral
+886,Ironclad Minotaur,6,5,6,creature,neutral
+1142,Ares' Runeblade,8,5,2,weapon,war
+838,Jaguar Staff,5,2,2,weapon,nature
+100151,Reanimated Corpse,2,2,2,creature,death
+87063,Third Eye Seer,2,2,3,creature,magic
+65003,Tethys,9,15,15,creature,neutral
+202,Shade Walker,4,4,3,creature,deception
+1192,Aging Veteran,2,1,2,creature,neutral
+87,Amplification Machine,3,0,7,creature,neutral
+100120,Memory Charm,2,0,0,god power,deception
+1047,Vinebound Jotun,8,10,12,creature,nature
+1183,Annoying Bureaucrat,6,3,4,creature,deception
+1139,Trojan Battlemage,3,3,1,creature,war
+948,Divine Messenger,7,7,7,creature,neutral
+199,Shadow Scryer,1,1,1,creature,magic
+100146,Panther,1,3,2,creature,nature
+1138,Viking Longship,4,3,4,creature,war
+154,"Mirror, Mirror",1,0,0,spell,deception
+100040,Rockdrake,5,6,5,creature,neutral
+905,"Hydna, Reef Raider",5,4,4,creature,neutral
+185,Aquatic Torturer,5,6,5,creature,neutral
+40,Ruins Explorer,2,1,2,creature,nature
+91,Magic Inks,2,0,0,spell,magic
+100150,Reanimated Ghoul,1,2,1,creature,death
+866,Howling Berserker,9,2,2,creature,war
+1019,Antimagic Wards,3,0,0,spell,war
+87044,Crook of Shepherding,2,2,1,weapon,light
+808,Undead Chimera,4,3,5,creature,death
+365,"Hippolyta, Divided",6,4,5,creature,nature
+81,Inflammable Imbecile,1,2,4,creature,neutral
+26,Valkyrie Heartsworn,1,3,1,creature,neutral
+209,Paragon of Fortune,6,3,3,creature,war
+100148,Badger,0,1,2,creature,nature
+915,Council of the Gods,2,0,0,spell,neutral
+87032,Vicious Rend,1,0,0,spell,war
+100145,Eagle,0,2,1,creature,nature
+277,Omnipresence,3,2,2,creature,death
+1167,Jungle Princess,5,4,3,creature,neutral
+926,Lysander's Mercy,7,0,0,spell,light
+840,Dionysian Bull,6,3,7,creature,nature
+1198,Sentry Post,2,1,2,creature,neutral
+831,Pallas' Wand,2,0,2,weapon,magic
+1159,Phylactery,5,0,3,weapon,death
+100006,Larceny,2,0,0,god power,deception
+373,O Fortuna,8,0,0,spell,magic
+87020,Echocaster,6,4,5,creature,neutral
+87030,Twinhorn Rider,7,4,6,creature,war
+100002,Atlas' Burden,0,0,0,spell,neutral
+156,Dwarven Smiths,2,2,2,creature,war
+226,Conniving Djinn,2,2,4,creature,neutral
+377,Jackal,2,2,2,creature,neutral
+340,Back-Alley Vendor,1,1,2,creature,neutral
+169,"Horus, The Protector",7,6,7,creature,light
+109,Aegis Commander,5,3,3,creature,neutral
+848,Stolen Plans,1,0,0,spell,deception
+62,Deathdealt Netherine,6,5,4,creature,death
+1165,Infernal Footsoldier,2,1,1,creature,neutral
+5,Half Life,3,0,0,spell,death
+916,The Trial Begins,3,0,0,spell,neutral
+330,Smoke Bomb,4,4,5,creature,deception
+51,Rebirth Planetar,7,6,7,creature,neutral
+256,Burrowing Scarab,2,1,1,creature,death
+824,"Lysander, Champion of Light",6,3,7,creature,light
+87048,Charging Oryx,7,7,7,creature,nature
+873,Veteran Hoplite,1,2,5,creature,light
+285,Beam,4,0,0,spell,magic
+258,Hyksosian Chariot,3,2,1,creature,war
+200,Clone,2,0,0,spell,magic
+1245,Crystal Rain,5,0,0,spell,magic
+180,Planetar Envoy,6,5,6,creature,magic
+87055,Stygian Collector,4,7,4,creature,death
+366,Merlin,6,4,6,creature,magic
+889,Fortified Acropolis,6,3,6,creature,neutral
+950,Manticore Hulk,4,4,5,creature,neutral
+1050,"Managarmr, Moon Hound",3,4,3,creature,nature
+147,"Arius, Augur Paroxysm",9,16,16,creature,neutral
+1078,"Deuteria, Manashard Mage",1,2,2,creature,neutral
+184,Quicksilver Dragon,7,7,8,creature,neutral
+338,Fill the Coffers,6,0,0,spell,deception
+245,Pyrrhic Incantation,1,0,0,spell,death
+902,Student of Blades,3,3,3,creature,neutral
+1240,Metamorphosis,2,0,0,spell,magic
+1228,Shadow Paladin,3,4,2,creature,neutral
+100149,Bear,3,3,4,creature,nature
+174,Vine Armour,3,1,4,weapon,nature
+265,False Peace,4,0,0,spell,deception
+1157,Auric Rush,1,0,0,spell,war
+242,Advocate of Brilliance,6,4,5,creature,magic
+1001,Carnage Sweep,5,0,0,spell,war
+1128,Wiccan Trapper,1,3,1,creature,neutral
+65,Pickpocket,4,0,0,spell,deception
+229,Phalanx Champion,4,3,4,creature,light
+883,Fated Arrival,3,0,0,spell,light
+850,Obsidian Dagger,3,0,3,weapon,deception

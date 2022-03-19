@@ -1,0 +1,789 @@
+id,name,mana,attack,health,type,god,strategy
+1118,Firewine,5,0,0,spell,nature,early
+1036,Leyhoard Hatchling,10,2,1,creature,magic,late
+244,Aetherfuel Alchemist,6,4,4,creature,neutral,late
+215,Millenium Matryoshka,4,2,2,creature,neutral,late
+87013,Poison Peddler,4,1,3,creature,neutral,late
+230,Canopic Hoarder,5,2,1,creature,death,late
+87047,Escaped Silverback,5,5,4,creature,nature,late
+100053,Rune of Fire,2,0,0,spell,neutral,early
+1073,Dwarf Atlant,3,1,5,creature,neutral,late
+273,Rampaging Leviathan,7,5,5,creature,nature,late
+849,Fevered Dreams,3,0,0,spell,deception,early
+1100,Lightning Strike,3,0,0,spell,nature,early
+934,Port Authority,6,7,3,creature,deception,late
+1206,Viking Warmaiden,2,3,1,creature,neutral,early
+286,Rebel Quartermaster,3,1,2,creature,nature,early
+1120,Vault Vagabond,3,1,3,creature,deception,early
+1233,Fickle Cambion,3,3,3,creature,death,late
+106,Underbrush Boar,2,3,3,creature,nature,late
+255,Master of Indulgences,4,2,2,creature,light,late
+306,Blood Rage,2,0,0,spell,war,early
+145,Dread Queen Persephone,6,3,7,creature,death,late
+1035,Rune Viper Tincture,5,0,0,spell,magic,early
+1217,Wetlands Ogre,4,4,5,creature,neutral,late
+1038,Choralis Rune Moth,3,1,1,creature,magic,early
+896,Foreign Diplomat,2,2,3,creature,neutral,early
+87021,Juggernewt,7,6,7,creature,neutral,late
+832,Selena's Bow,3,0,4,weapon,nature,early
+344,Spellstealer,5,3,3,creature,deception,late
+133,"Nemris, the Unstable",6,5,5,creature,neutral,late
+1009,Netherwarp,4,0,0,spell,death,early
+1034,Dreaming Sceptre,3,0,4,weapon,death,early
+228,Empire's Footman,2,1,1,creature,neutral,early
+1131,Blight Bomb,1,0,0,spell,death,early
+122,Tomb Robber,3,1,2,creature,neutral,early
+1045,Marsh Walker,1,1,4,creature,nature,early
+1127,Cardshark,1,1,1,creature,neutral,early
+18,Levitate,1,0,0,spell,magic,early
+100069,"Heptaria, Manashard Fiend",1,5,5,creature,neutral,late
+100132,Ancient Guardian,2,2,2,creature,neutral,early
+858,"Eris, Queen of Chaos",9,8,7,creature,deception,late
+124,Fusing Fleshspawn,1,3,1,creature,death,early
+1200,Cursed Caipora,5,1,2,creature,neutral,late
+112,Rift Scholar,5,2,2,creature,magic,late
+1146,Judge Envoy,7,6,7,creature,neutral,late
+82,"Light, Ascended",6,0,0,spell,light,early
+830,Lysander's Spear,3,0,3,weapon,light,early
+875,Parthene Democracy,3,0,0,spell,light,early
+100000,Promethean Flame,1,0,0,spell,neutral,early
+1087,Burnished Bull,7,10,10,creature,neutral,late
+1188,Thaeric Blessing,1,0,0,spell,light,early
+100111,Flourish,2,0,0,god power,nature,early
+1069,"Amplureal, Sentient Shard",4,4,2,creature,neutral,late
+860,Bloodthirsty Spear,1,2,1,weapon,war,early
+1255,Umber Arrow,2,0,0,spell,deception,early
+1155,Carthaginian Marine,4,3,3,creature,neutral,late
+1105,Amazon Flanker,6,2,2,creature,neutral,late
+100137,Hyena,1,1,1,creature,neutral,early
+100117,Heal,2,0,0,god power,light,early
+818,"Majes, Spectral Philosopher",5,2,2,creature,magic,late
+1212,Thanakris Spell-Locusts,3,1,3,creature,death,early
+150,Nephthys Guardian,6,5,6,creature,neutral,late
+123,Friendly Mimic,4,2,2,creature,neutral,late
+1013,Dust to Dust,4,0,0,spell,death,early
+100065,Skeletal Guard,1,2,1,creature,neutral,early
+354,Sucella,7,4,4,creature,nature,late
+259,Warden of Kauket,8,3,12,creature,neutral,late
+1055,Radiant Embalmer,4,2,2,creature,light,late
+260,Avatar of War,8,8,8,creature,war,late
+87062,Possessed Acolyte,2,2,2,creature,death,early
+1084,Skeleton Heavy,2,2,4,creature,neutral,late
+383,Aetherrust,4,0,0,spell,death,early
+1130,Brimstone,1,0,0,spell,death,early
+918,Trial of the Underworld,8,0,0,spell,death,late
+809,Deathwatch Curate,5,5,6,creature,death,late
+320,Pyroclastic Alchemist,7,7,7,creature,neutral,late
+342,Avatar of Deception,4,4,4,creature,deception,late
+906,Guardian of the Underworld,8,13,17,creature,death,late
+100056,Rune of Sight,2,0,0,spell,neutral,early
+131,"Lara Grim, Spellthief",1,1,1,creature,neutral,early
+271,Revenant Lynx,3,4,2,creature,nature,late
+1221,Ranger Firstbow,2,2,2,creature,neutral,early
+100136,Bodyguard,1,1,1,creature,neutral,early
+348,Reap,6,0,0,spell,death,early
+87012,Radiant Spirit,4,3,4,creature,light,late
+367,Avatar of Nature,5,5,5,creature,nature,late
+221,Sit Down,1,0,0,spell,light,early
+100122,Intense Training,2,0,0,god power,war,early
+266,Bonded Warrior,2,2,2,creature,neutral,early
+203,Ares Peacemaker,4,0,7,creature,death,late
+1185,Strix Hunter,4,2,5,creature,neutral,late
+339,"Locusta, Solution Expert",6,2,4,creature,neutral,late
+149,"Tyet, Heir To The Sky",9,6,9,creature,neutral,late
+911,Tartessian Mob,7,3,2,creature,war,late
+210,Fallen Aether,3,3,3,creature,neutral,late
+1203,Highland Defender,4,4,3,creature,neutral,late
+1232,Beastfury Shaman,3,2,3,creature,neutral,late
+1112,Onyx Nightblade,2,1,2,creature,neutral,early
+87066,Rune Writer,5,4,4,creature,magic,late
+20,Dimension Looper,4,3,4,creature,magic,late
+1238,Reconnaissance,2,0,0,spell,deception,early
+835,Orfeo's Mask,5,0,2,weapon,deception,early
+1224,Uncanny Rogue,4,4,3,creature,deception,late
+1017,Revivification,1,0,0,spell,nature,early
+151,The Gatekeeper,8,3,7,creature,neutral,late
+357,Myrto's Daughter,5,2,2,creature,nature,late
+100037,Phoenix Egg,1,0,2,creature,neutral,early
+87052,Jump On!,4,0,0,spell,nature,early
+1148,Battle Aurochs,3,3,3,creature,neutral,late
+87051,Best Friends,1,0,0,spell,nature,early
+929,Valka's Discovery,3,0,0,spell,war,early
+1141,Dark Knives,1,0,0,spell,deception,early
+1000,Dryder Sailweaver,1,2,2,creature,neutral,early
+32,Spellwrought Angel,5,5,5,creature,light,late
+1178,Soothsayer,4,2,3,creature,magic,late
+885,"Helia, the Illuminator",7,6,6,creature,neutral,late
+42,Dread Pirate,2,2,2,creature,neutral,early
+17,Mimicus,1,1,1,creature,deception,early
+160,Dangerous Ritual,2,0,0,spell,death,early
+1210,Jinxblade Duelist,3,4,2,creature,deception,late
+941,Spellbound Goblin,4,3,3,creature,magic,late
+1057,Battle Cleric,5,2,2,creature,light,late
+1011,Astric Implosion,6,0,0,spell,magic,early
+917,Vow of Champions,2,0,0,spell,neutral,early
+806,Skull Scepter,2,0,1,weapon,death,early
+909,Antemion's Reflection,5,5,5,creature,magic,late
+1201,Shield Maiden,2,2,3,creature,neutral,early
+335,Reborn Pharaoh,3,3,2,creature,death,late
+196,Master Tactician,2,2,2,creature,war,early
+76,Set Oshi,6,3,4,creature,neutral,late
+284,Dick Puddlecote,3,3,3,creature,neutral,late
+1135,A Toast To Peace,6,0,0,spell,deception,early
+87058,Soul Bargain,1,0,0,spell,death,early
+861,Might Makes Right,4,0,0,spell,war,early
+1088,Cyclops Defender,7,6,10,creature,neutral,late
+61,Spellbound,1,0,0,spell,deception,early
+299,Blacksmith Armourer,3,1,1,creature,war,early
+1199,Pacifism,2,0,0,spell,light,early
+927,Pallas' Incantation,6,0,0,spell,magic,early
+66,Balance Ethereals,6,4,5,creature,neutral,late
+854,Dream Stalker,5,2,3,creature,deception,late
+315,Lord of Whispers,4,2,4,creature,deception,late
+158,Wizened Warlock,3,2,2,creature,neutral,early
+138,Hallowed Keeper,6,3,7,creature,neutral,late
+329,Labyrinth Minotaur,6,4,7,creature,deception,late
+1202,Raving Necromancer,2,3,2,creature,death,early
+350,Beyond the Grave,1,0,0,spell,light,early
+1213,Harp Cupid,6,2,4,creature,light,late
+323,Anoint,2,0,0,spell,light,early
+117,Runestorm,5,0,0,spell,magic,early
+100057,Sterling Spear,2,2,3,weapon,neutral,early
+884,Aetheric Alarm,3,0,5,weapon,light,late
+268,Sphinx Cat,4,3,2,creature,neutral,late
+867,Strength In Numbers,7,0,0,spell,war,early
+290,Ambush,3,0,0,spell,deception,early
+1239,Morgana's Grimoire,2,0,3,weapon,magic,early
+100090,Hand Axe,0,2,1,weapon,war,early
+312,Salvaged Sentinel,7,6,6,creature,magic,late
+300,Guerilla Sabotage,3,0,0,spell,deception,early
+100043,Broken Warrior,1,1,1,creature,neutral,early
+919,Trial of the Shadows,7,0,0,spell,deception,early
+100060,Banished Shadow,1,1,1,creature,neutral,early
+1015,Staff of Shards,2,0,3,weapon,magic,early
+292,Gunpowder Plot,4,0,0,spell,war,early
+1222,Assassin's Aim,2,0,0,spell,deception,early
+114,Tutankhamun,4,1,5,creature,neutral,late
+70,Greed Banestrider,3,4,4,creature,death,late
+1081,Arkmonian Anteater,1,1,3,creature,neutral,early
+356,Jungle Shepherd,3,1,1,creature,light,early
+1077,Trial Spirit,1,1,3,creature,neutral,early
+317,Inquisitor's Summons,5,0,0,spell,light,early
+1041,Tainted Treant,5,2,4,creature,nature,late
+120,Astraea's Envoy,6,4,5,creature,neutral,late
+845,Seasonal Rebirth,7,0,0,spell,nature,early
+87056,Corpse Swallower,6,5,6,creature,death,late
+1056,Helios Guardian,4,2,6,creature,light,late
+100064,Barbed Hook,0,1,1,weapon,neutral,early
+1085,Phase Touched Golem,3,3,3,creature,neutral,late
+65001,Prometheus,6,10,10,creature,neutral,late
+1022,Orcish Elite,5,2,5,creature,war,late
+2,Siren of the Grave,1,2,2,creature,death,early
+232,Unruly Shredder,2,1,4,creature,neutral,early
+804,Necronomics,1,0,0,spell,death,early
+90,Synergy Golem,3,3,4,creature,neutral,late
+24,Midnight Cat,1,2,2,creature,neutral,early
+100003,"Orax, Shield of Pain",4,0,4,weapon,war,late
+223,Tithe Collector,2,1,3,creature,light,early
+1161,Amazon Conscript,1,2,2,creature,nature,early
+310,Equivalent Exchange,3,0,0,spell,magic,early
+100112,Leech Life,3,0,0,god power,nature,early
+78,Annoying Combatant,5,3,6,creature,neutral,late
+805,Soul Charlatan,3,3,4,creature,death,late
+1095,Dune Cavalry,3,3,4,creature,neutral,late
+935,Guild Siren,2,2,3,creature,deception,early
+1060,Patience Priestess,4,2,3,creature,light,late
+1071,Pyrrhic Adolescent,4,4,4,creature,neutral,late
+325,Mindful Orc,3,2,4,creature,neutral,late
+80,Overclock,1,0,0,spell,deception,early
+1027,Slip Blade,5,1,2,weapon,deception,late
+1207,Dionysian Drunk,3,3,2,creature,deception,late
+192,Actuary of War,4,2,3,creature,war,late
+181,Daemonic Offering,3,0,0,spell,death,early
+87077,Ransom,4,0,0,spell,deception,early
+100920,First Pillar,4,2,5,creature,light,late
+1211,Mire Bloodworm,3,1,4,creature,neutral,late
+100036,Sentient Flameblades,0,5,2,weapon,war,early
+87072,Glider Assailant,2,3,2,creature,deception,early
+213,Prodigious Armourer,3,2,3,creature,war,late
+34,Foolhardy Berserker,2,3,2,creature,neutral,early
+100125,Thievery,0,0,0,god power,deception,early
+1196,Triumvirate Prophet,3,1,2,creature,light,early
+100055,Rune of Strength,2,0,0,spell,neutral,early
+814,Rod of Rodents,3,1,2,weapon,magic,early
+387,Protected Deamonbot,5,5,2,creature,neutral,late
+1164,Tomb Torchbearer,1,1,1,creature,neutral,early
+100147,Crocodile,3,4,3,creature,nature,late
+227,Hollow Pillager,3,2,1,creature,neutral,early
+44,Unnatural Binding,1,0,0,spell,death,early
+48,Ignean Roulette,1,0,0,spell,deception,early
+97,Glass Cannon,3,7,2,creature,neutral,late
+400,First Phoenix,5,5,1,creature,nature,late
+1006,Purification Filter,6,0,0,spell,light,early
+940,Blessing of Magic,2,0,0,spell,magic,early
+308,Take Them All On,2,0,0,spell,war,early
+100039,Brash Chicken,1,2,2,creature,neutral,early
+1194,Felid Assassin,1,3,1,creature,deception,early
+246,Trojan Golem,2,2,1,creature,neutral,early
+882,Burden of Proof,3,0,0,spell,light,early
+28,Apate Conspirator,1,2,1,creature,deception,early
+33,Sentinel Princess,1,2,2,creature,neutral,early
+220,Field Nurse,1,1,2,creature,light,early
+168,Lost In The Depths,1,0,0,spell,magic,early
+321,Forty Days,2,0,0,spell,light,early
+46,Untold Greed,1,0,0,spell,death,early
+87053,Wildroot Staff,5,1,2,weapon,nature,late
+100107,Undying Wish,2,0,0,god power,death,early
+327,Canonize,5,0,0,spell,light,early
+100106,Soul Burn,2,0,0,god power,death,early
+87025,Reckless Flamebreather,8,5,5,creature,neutral,late
+1053,Devouring Blade,4,2,2,weapon,war,late
+240,Spelljam Shaman,4,2,3,creature,nature,late
+19,Mountain Greatwyrm,7,4,9,creature,war,late
+195,Cyclops,6,5,5,creature,war,late
+314,Warp Engineer,2,1,3,creature,magic,early
+374,Backstreet Bouncer,1,1,1,creature,neutral,early
+87039,Peacebringer,8,4,7,creature,light,late
+1195,Devoted Follower,2,3,2,creature,light,early
+1032,Writhing Spirit,1,3,3,creature,death,early
+148,Cambion Runelord,7,5,5,creature,neutral,late
+846,"Dionysus, the Bountiful",9,8,8,creature,nature,late
+1074,Pyrrhic Hatchling,2,2,3,creature,neutral,early
+92,Runic Familiar,2,2,1,creature,magic,early
+261,Blessed Jackalope,1,1,1,creature,light,early
+87057,Necromantic,8,4,4,creature,death,late
+376,Iron-tooth Goblin,2,2,2,creature,neutral,early
+100104,Blastwave,2,0,0,god power,magic,early
+351,Archimedes Mirror,6,1,6,creature,magic,late
+243,Leywraith,6,4,5,creature,neutral,late
+12,Sanctify,2,0,0,spell,light,early
+41,Pocket Channeler,5,4,4,creature,magic,late
+823,Arcane Burst,7,0,0,spell,magic,early
+856,Pan Marauder,6,6,6,creature,deception,late
+68,"Petard ""Elder""",3,3,2,creature,neutral,late
+100072,Bomb,0,0,0,spell,deception,early
+1145,The Nemean Lion,3,2,2,creature,neutral,early
+1144,Athena's Conjurer,6,2,4,creature,neutral,late
+27,Ashen Drake,7,6,5,creature,neutral,late
+829,"Orfeo, Champion of Deception",1,1,1,creature,deception,early
+216,Ruthless Caipora,5,3,3,creature,neutral,late
+121,Agrodor Protector,4,3,5,creature,nature,late
+85,Gleeful Pillager,2,1,2,creature,deception,early
+1226,Aether Vanguard,6,4,4,creature,neutral,late
+143,Pixielock,3,1,3,creature,neutral,early
+178,Ancient Texts,1,0,0,spell,magic,early
+1121,Anti-Magic Expert,8,3,10,creature,deception,late
+13,Charm,8,0,0,spell,deception,late
+279,Seraph,5,1,1,creature,light,early
+853,Satyr Hypnotist,2,2,2,creature,deception,early
+893,Parthene Guardian,2,1,1,creature,neutral,early
+118,Penitent Spear,6,5,2,weapon,war,late
+211,Deathsworn Raider,3,3,2,creature,war,late
+100044,Pyroclast,1,1,1,creature,neutral,early
+1215,Ghost Marauder,1,3,1,creature,neutral,early
+100004,Ruin,2,0,0,god power,war,early
+100009,Cultivate,2,0,0,god power,nature,early
+281,Red Fume Dash,2,0,0,spell,war,early
+100140,Battlethrall,1,1,1,creature,neutral,early
+359,Bucking Bronco,5,4,3,creature,nature,late
+45,Felid Tracker,2,5,1,creature,neutral,late
+1099,Rampart,1,0,6,creature,neutral,early
+177,Exoscout,6,4,5,creature,magic,late
+100007,Shine,2,0,0,god power,light,early
+1063,"Asterius, Glittering One",6,4,6,creature,light,late
+298,Runaway Trebuchet,5,4,1,creature,war,late
+1030,Sand Scorpion,5,1,4,creature,death,late
+100041,Injured Soldier,1,1,2,creature,neutral,early
+892,Diligent Architect,3,2,2,creature,neutral,early
+1025,"Thalia, Charite Temptress",6,4,3,creature,deception,late
+100047,Sleeper Golem,3,3,2,creature,deception,late
+910,Arkmonian Hydra,7,6,6,creature,nature,late
+87024,Achillean Dedicant,8,6,7,creature,neutral,late
+857,Elixir of the Snake,6,0,0,spell,deception,early
+1168,Oliphaunt Mount,7,7,7,creature,nature,late
+100127,Magebolt,3,0,0,god power,magic,early
+936,Battle Priest,3,2,4,creature,light,late
+172,Wild Spellsinger,6,5,6,creature,neutral,late
+1129,End Times,8,0,0,spell,death,late
+100070,"Octavia, Manashard Queen",1,7,7,creature,neutral,late
+347,Nightmare,1,0,0,spell,deception,early
+816,Recovered Knowledge,3,0,0,spell,magic,early
+1029,Bombfly,1,2,1,creature,death,early
+100144,Acolyte,1,2,2,creature,light,early
+182,High Thaumaturge,2,1,2,creature,light,early
+1,Nethergram,7,0,0,spell,death,early
+1109,"Porphyrion, Dread Cyclops",7,7,8,creature,neutral,late
+30,Radiant Guardian,7,5,7,creature,light,late
+87022,Anubian Usher,7,8,6,creature,neutral,late
+276,Vile Mantis,4,3,2,creature,death,late
+1007,Darkdream Hex,3,0,0,spell,deception,early
+8,Eternal Servant,3,1,3,creature,death,early
+822,Mana Auditor,6,4,4,creature,magic,late
+899,Thebian Strategos,5,2,6,creature,neutral,late
+251,Flying Carpet,1,3,1,creature,magic,early
+1136,Deadly Arsenal,1,0,0,spell,war,early
+87074,Secrets Broker,5,5,4,creature,deception,late
+1227,Veteran Cataphract,7,6,6,creature,neutral,late
+859,Hierophant Silenus,5,4,3,creature,deception,late
+1243,Tracking Bolt,2,0,0,spell,magic,early
+87067,Illuminate,1,0,0,spell,magic,early
+1175,Veteran Archer,4,2,3,creature,neutral,late
+100884,Aetheric Echo,1,0,2,creature,light,early
+870,"Hyrtacus, Brazen Hero",6,3,6,creature,war,late
+282,Rune Smuggler,6,4,5,creature,neutral,late
+96,Blade Trader Drosis,3,3,3,creature,neutral,late
+128,Cudgel of Atonement,1,2,2,weapon,light,early
+157,Furies,7,3,3,creature,war,late
+65004,Citadel of the Gods,1,0,0,spell,neutral,early
+163,Mercenary Daemon,5,6,5,creature,war,late
+1229,Void Banshee,2,4,3,creature,death,late
+812,Form of Wisdom,2,0,0,spell,magic,early
+100123,Slayer,3,0,0,god power,war,early
+807,Ataraxia,4,0,0,spell,death,early
+1016,Inferno,7,0,0,spell,magic,early
+100067,Giant Elk,2,2,3,creature,nature,early
+890,Frumentarii Instigator,4,3,4,creature,neutral,late
+87036,Battlement Luminary,2,2,1,creature,light,early
+100105,Discovery,2,0,0,god power,magic,early
+1005,Imperious Smite,4,0,0,spell,light,early
+1044,Staff of Roots,2,1,2,weapon,nature,early
+79,Hunger Daemon,3,3,3,creature,death,late
+1079,Sentient Amphora,2,0,2,creature,neutral,early
+56,Pharaoh's Body-Double,2,2,1,creature,light,early
+1184,Tomb Blademaster,7,3,4,creature,neutral,late
+87026,Apep's Doomcaller,8,6,8,creature,neutral,late
+187,Hooded Doppelganger,6,6,5,creature,neutral,late
+214,Shrine of Sothek,3,0,2,creature,nature,early
+836,Frenzied Ritual,4,0,0,spell,nature,early
+813,Academy Familiar,1,1,3,creature,magic,early
+141,Underhand Thug,3,1,2,creature,deception,early
+87071,Lambasting Wand,2,1,3,weapon,magic,early
+107,Erratic Summons,2,0,0,spell,magic,early
+65002,Atlas,7,10,10,creature,neutral,late
+103,Shadow Prince,7,5,7,creature,magic,late
+1234,Born Again,6,0,0,spell,light,early
+119,Golden Harpe,3,0,3,weapon,light,early
+250,Three's a Crowd,6,0,0,spell,deception,early
+100133,Ancient Executioner,3,3,2,creature,neutral,late
+136,Cyrene's Blessing,2,0,0,spell,nature,early
+22,"Anubis, Guide of Souls",6,5,6,creature,neutral,late
+87011,Hoplite Initiate,3,1,4,creature,neutral,late
+837,Enchanted Vines,6,0,0,spell,nature,early
+1171,Double Dealer,7,2,1,creature,deception,late
+1026,Lokian Disciple,7,6,8,creature,deception,late
+234,Guardian of the Gates,3,1,1,creature,magic,early
+208,Thresher Bug,2,2,2,creature,nature,early
+100910,Hydra Head,2,3,2,creature,nature,early
+100128,Amazon Recruit,1,1,1,creature,neutral,early
+179,Trapdoor Assassin,2,4,1,creature,deception,early
+84,Arcane Transcendent,3,3,3,creature,magic,late
+904,Ghostly Chariot,3,2,3,creature,neutral,late
+1166,Bladefly,4,2,2,creature,nature,late
+134,Compost Charm,2,0,0,spell,nature,early
+1122,Mana Toad,3,2,1,creature,magic,early
+57,Swelling Boon,5,0,0,spell,nature,early
+1247,Seeing Stone,1,0,0,spell,magic,early
+100141,Huscarl,1,1,1,creature,neutral,early
+1082,Tribal Orc,1,2,2,creature,neutral,early
+54,Scarab Swarm,1,1,2,creature,neutral,early
+1150,Spartan,3,2,3,creature,neutral,late
+87004,Wild Hog,1,2,3,creature,neutral,early
+288,Ra's Ascension,4,0,0,spell,light,early
+881,Dowsing Blade,1,1,1,weapon,light,early
+1049,"Gersemi, Freyja's Spear",3,4,2,creature,nature,late
+291,Faraday Cage,4,0,0,spell,magic,early
+386,Shadow Banisher,4,0,6,weapon,magic,late
+275,Bearstrider,4,2,5,creature,war,late
+272,Venerable Gryphon,2,3,4,creature,neutral,late
+88,Shady Merchant,3,1,3,creature,deception,early
+1059,Holy Enchanter,4,2,4,creature,light,late
+166,The Nether Prince,6,7,8,creature,neutral,late
+100143,Destructive Dagger,2,1,1,weapon,neutral,early
+1134,Void Flash,4,0,0,spell,death,early
+811,Hippacria's Monster,9,0,1,creature,death,late
+43,Simple Satyr,1,1,2,creature,nature,early
+394,Aether Chest,3,0,6,creature,neutral,late
+100116,Heaven's Light,2,0,0,god power,light,early
+125,Enflame Self,1,0,0,spell,death,early
+924,Neferu's Will,5,0,0,spell,death,early
+1066,Void Drake,7,7,5,creature,neutral,late
+1162,Singsong Satyr,4,2,3,creature,neutral,late
+72,Scythes of the Harvest,4,4,2,weapon,war,late
+274,Crush Construct,6,8,8,creature,neutral,late
+1163,"Zaxiom, Cryptic Panther",5,4,4,creature,neutral,late
+87043,Pluck From Fate,3,0,0,spell,light,early
+933,Blessing of Deception,2,0,0,spell,deception,early
+301,Druidic Summons,4,0,0,spell,nature,early
+944,Sudden Rally,3,0,0,spell,nature,early
+58,Nullmaw,5,7,6,creature,neutral,late
+100126,Clear Mind,2,0,0,god power,magic,early
+100139,Demonic Skull,10,9,9,creature,death,late
+1149,"Hector, Prince of Troy",7,6,6,creature,war,late
+140,Death Masque,4,3,5,creature,neutral,late
+1103,Tomb Priest,4,4,4,creature,neutral,late
+87041,Commune With The Light,3,0,0,spell,light,early
+337,"Pandora, The Curious",4,2,5,creature,neutral,late
+100131,Skeleton,1,1,1,creature,neutral,early
+903,Pious Giant,6,6,6,creature,neutral,late
+341,Merchant Prince,4,2,4,creature,deception,late
+901,Student of Society,1,1,2,creature,neutral,early
+87002,Barricade,2,1,4,creature,neutral,early
+111,Soul Jar,3,0,3,creature,neutral,early
+384,Magic Missile Launcher,4,3,2,weapon,war,late
+381,Arcane Sphere,1,1,2,creature,neutral,early
+263,Crimson Oni,4,6,5,creature,death,late
+1094,Viking Outrider,3,4,3,creature,neutral,late
+358,Avatar of Magic,9,9,9,creature,magic,late
+167,Sulphuric Rain,1,0,0,spell,death,early
+913,Ludia's Deception,1,0,0,spell,deception,early
+1043,Nefarious Briar,4,3,4,creature,nature,late
+87010,Jailbeast,3,3,2,creature,neutral,late
+802,Forbidden Experiment,1,0,0,spell,death,early
+863,Nokkvi Pillager,3,3,3,creature,war,late
+1031,Vampiric Skull,6,6,6,creature,death,late
+289,Alms For Service,1,0,0,spell,light,early
+945,Blessing of War,3,0,0,spell,war,early
+100129,Walking Tree,2,2,2,creature,nature,early
+115,Master of Surprises,6,8,5,creature,deception,late
+171,Will O' Wisp,2,1,1,creature,light,early
+100058,Glamoured Gladius,2,1,3,weapon,neutral,early
+206,Leviathan Hunter,1,2,1,creature,neutral,early
+1102,Auric Mage,6,3,4,creature,war,late
+194,Raving Fan,1,0,2,creature,neutral,early
+87015,Flamecaller,5,1,2,creature,neutral,late
+316,Well of Power,5,0,0,spell,magic,early
+894,Satyr Outcast,1,1,3,creature,neutral,early
+1126,Tartessian Improviser,1,2,1,creature,war,early
+87014,Underbridge Assailant,4,5,3,creature,neutral,late
+65000,Hyperion,1,10,10,creature,neutral,late
+843,Steadfast Scout,3,1,3,creature,nature,early
+1023,Mercenary Troop,4,0,0,spell,war,early
+1181,Combat Medic,3,3,3,creature,neutral,late
+248,Reflection Elementalist,5,3,4,creature,neutral,late
+1062,Illuminated Warrior,1,2,2,creature,light,early
+923,Trial of the Innocents,6,0,0,spell,war,early
+241,Servant of Inti,3,5,1,creature,neutral,late
+87034,Over-proof Brew,5,0,0,spell,war,early
+100066,Warrior,2,2,2,creature,war,early
+937,Healing Light,4,0,0,spell,light,early
+1124,Patron's Sacrament,1,0,0,spell,light,early
+7,Broken Harvester,1,1,5,creature,neutral,early
+100138,Netherspawn,6,6,6,creature,neutral,late
+833,Valka's Axe,5,0,1,weapon,war,early
+25,"Odin, Endless War",8,5,5,creature,war,late
+257,La Bolefuego,5,3,5,creature,neutral,late
+21,"Osiris, the Eternal",3,3,4,creature,light,late
+1216,Town Guardian,4,3,4,creature,neutral,late
+100038,Chicken Egg,1,0,3,creature,neutral,early
+803,Return to the Cave,1,0,0,spell,death,early
+16,Faustian Pact,3,0,0,spell,death,early
+94,Demogorgon,7,4,6,creature,neutral,late
+1076,Battlebard,1,2,1,creature,neutral,early
+98,The Sky Reaver,5,5,5,creature,neutral,late
+100,"Hercules, Son of Zeus",7,6,7,creature,neutral,late
+173,Blade Trial Valkyrie,6,4,4,creature,war,late
+87037,Barbed Portcullis,3,2,4,creature,neutral,late
+352,Arcana-Daemon,3,4,2,creature,magic,late
+1104,Catapult,5,0,5,creature,neutral,late
+100130,Impling,1,1,1,creature,neutral,early
+880,Tartessian Sentry,4,3,3,creature,light,late
+872,Fortify,2,0,0,spell,light,early
+1158,Switch Duelist,1,3,1,creature,deception,early
+1111,Frost Giant Deadshot,6,4,5,creature,neutral,late
+1160,Athenian Archer,1,1,2,creature,neutral,early
+164,Azure Djinni,7,6,4,creature,neutral,late
+31,Photogenesis,7,0,0,spell,nature,early
+898,Injured Hetairoi,4,4,6,creature,neutral,late
+390,Golden Sabre,2,2,3,weapon,light,early
+36,Natural Selection,2,0,0,spell,nature,early
+1123,Guerilla Training,2,0,0,spell,nature,early
+105,Pilgrim of the Cause,2,1,2,creature,light,early
+67,Golem Centurion,7,5,7,creature,neutral,late
+87075,Wiznapper,8,5,4,creature,deception,late
+1257,Pyreshell Beetle,1,1,3,creature,neutral,early
+3,Amazon Hearteater,5,4,4,creature,death,late
+1083,Planetar Centurion,7,7,7,creature,neutral,late
+87031,Fury,1,0,0,spell,war,early
+1020,Zealous March,8,0,0,spell,light,late
+280,Laertes' Vendetta,4,0,0,spell,deception,early
+311,Arms Trafficker,2,1,4,creature,neutral,early
+922,Trial of the Hydra,5,0,0,spell,nature,early
+254,Primal Guidance,1,0,0,spell,nature,early
+1173,Wicked Fae,2,1,1,creature,neutral,early
+87009,Hunt Warden,3,3,4,creature,neutral,late
+87080,Poisoned Dagger,4,3,1,weapon,deception,late
+87061,Rebuild Differently,7,0,0,spell,death,early
+868,Bladesworn Warrior,4,3,3,creature,war,late
+252,Sleep Dart,2,0,0,spell,deception,early
+294,Cavern Arachne,5,5,6,creature,neutral,late
+331,Identity Thief,7,4,4,creature,deception,late
+87050,Untamed Regrowth,3,0,0,spell,nature,early
+87017,Summoner's Guide,5,2,5,creature,neutral,late
+1248,Assistant Alchemist,1,2,2,creature,magic,early
+819,"Archimea, Arithmancer",5,3,5,creature,magic,late
+63,Uproot,2,0,0,spell,nature,early
+1218,Eager Nobleborn,2,2,1,creature,neutral,early
+815,Aether Herald,2,2,2,creature,magic,early
+1251,Prescient Spellbinder,3,3,3,creature,magic,late
+403,Blessed Ibis,7,4,5,creature,neutral,late
+100051,Heavy Anim,2,2,3,creature,neutral,early
+100048,Aching Disciple,1,3,1,creature,neutral,early
+95,That Which Aches,6,3,7,creature,neutral,late
+39,Arrest Warrant,6,0,0,spell,light,early
+862,Commander's Gladius,2,1,2,weapon,war,early
+100008,Seer,2,0,0,god power,magic,early
+236,Stun Gun Construct,4,4,3,creature,neutral,late
+1254,Ratify,5,0,0,spell,magic,early
+249,Netherborne Binder,1,2,3,creature,neutral,early
+949,Dragonkin Caller,4,3,3,creature,neutral,late
+100071,Rat,0,1,1,creature,neutral,early
+326,Devout Cleric,1,1,3,creature,light,early
+1004,Opalised Roots,6,0,0,spell,nature,early
+188,Rockdrake Egg,2,0,6,creature,neutral,late
+855,Elixir of the Panther,5,0,0,spell,deception,early
+127,Corrupt Ceremony,1,0,0,spell,death,early
+1042,Overgrown Rhino,4,5,5,creature,nature,late
+355,Eager Gryphon,2,2,3,creature,neutral,early
+1003,Arkmonian Onslaught,5,0,0,spell,nature,early
+912,Tartessian Pear,4,0,3,weapon,war,early
+100110,Forage,2,0,0,god power,nature,early
+1113,Helian Blademaster,6,5,5,creature,neutral,late
+6,Ancient Curse,3,0,0,spell,deception,early
+820,Form of Power,1,0,0,spell,magic,early
+874,Olympian Guard,2,1,2,creature,light,early
+1115,Hunting Trap,2,0,0,spell,deception,early
+1231,Thebian Brawler,4,2,6,creature,neutral,late
+262,Mark of the Warden,2,0,0,spell,nature,early
+1092,Vanir Lion,4,5,3,creature,neutral,late
+100049,Iron Anim,2,3,3,creature,neutral,late
+319,"Griffith, The Chosen",7,6,7,creature,light,late
+69,Malfunctioning Servitor,3,3,3,creature,neutral,late
+87007,Panacean Messenger,2,2,3,creature,neutral,early
+847,"Chiron, the Teacher",1,1,1,creature,nature,early
+87070,Epiphany,7,0,0,spell,magic,early
+304,The Harvester,6,3,4,creature,death,late
+1054,Chalice Priest,2,1,4,creature,light,early
+15,Respected Jarl,2,2,1,creature,war,early
+401,Light's Bidding,6,2,3,creature,light,late
+1241,Tome Golem,8,8,8,creature,magic,late
+75,Possessive Toupee,1,3,1,creature,neutral,early
+1147,Felid Janissary,2,2,1,creature,neutral,early
+841,Ornery Goat,3,3,3,creature,nature,late
+839,Dryad Seer,2,1,2,creature,nature,early
+47,Sacred Lore,3,0,0,spell,death,early
+303,Whetstone,1,0,0,spell,war,early
+360,Black Rhino,6,5,5,creature,nature,late
+938,Blessing of Light,2,0,0,spell,light,early
+1209,The Portable Fortress,2,0,8,creature,neutral,late
+1070,Eldritch Demonologist,4,3,3,creature,neutral,late
+1223,Cutthroat Insight,5,0,0,spell,deception,early
+346,Scales of Justice,1,0,0,spell,light,early
+1143,Arrow of Rage,2,0,0,spell,nature,early
+361,Loam Naturalist,2,1,1,creature,nature,early
+887,Frumentarii Researcher,3,2,4,creature,neutral,late
+100059,Curative Cudgel,2,2,2,weapon,neutral,early
+87028,Raid Reveller,3,3,2,creature,war,late
+253,Wasteful Shax,2,3,6,creature,death,late
+328,Angelic Veteran,4,2,4,creature,light,late
+116,Devouring Golem,5,4,5,creature,neutral,late
+175,Endow Wings,4,0,0,spell,magic,early
+1154,Runed Asp,2,2,1,creature,death,early
+932,Blessing of Death,2,0,0,spell,death,early
+297,Dead Man's Flail,4,3,2,weapon,war,late
+876,Field Medic,1,2,2,creature,light,early
+283,Hypnos Puzzle Box,1,0,0,spell,deception,early
+270,Jungle Scout,3,1,2,creature,nature,early
+842,Figure in the Streets,8,6,10,creature,nature,late
+55,Boost Walker,4,4,4,creature,neutral,late
+87016,Riled Ursine,5,6,5,creature,neutral,late
+943,Blessing of Nature,1,0,0,spell,nature,early
+925,Orfeo's Guile,7,0,0,spell,deception,early
+878,"Bardelys, Parthene Orator",3,1,2,creature,light,early
+1197,Tavern Brawler,1,2,2,creature,war,early
+100005,Blight,2,0,0,god power,death,early
+1258,Harvest Arachne,3,3,2,creature,neutral,late
+193,Highborn Knight,4,3,3,creature,light,late
+865,Valknir Weaponsmith,5,4,5,creature,war,late
+218,Proud Conscriptor,4,2,3,creature,nature,late
+1208,Mammon's Stalwart,6,3,6,creature,neutral,late
+372,Crystallax,5,3,4,creature,magic,late
+1189,Belligerent Warlock,2,2,2,creature,war,early
+52,Farsight Explorer,2,1,5,creature,neutral,late
+392,Hasty Trade,3,0,0,spell,deception,early
+204,Enduring Lemure,4,2,2,creature,neutral,late
+100062,Mind Probe,2,0,0,spell,deception,early
+126,A Real Man,1,0,2,creature,deception,early
+1067,Atlant Phalanx,5,5,4,creature,neutral,late
+364,"Magic, Unburdened",8,0,0,spell,magic,late
+219,Nimble Pixie,1,1,1,creature,neutral,early
+53,Dire Demilich,7,6,6,creature,death,late
+139,Gentle Monk,4,2,3,creature,light,late
+1133,Ray of Disintegration,5,0,0,spell,death,early
+324,Reformation,1,0,0,spell,light,early
+269,Mottled Ranger,3,2,2,creature,nature,early
+170,Blind Cyclops,7,7,7,creature,neutral,late
+1046,Faeflame Blade,2,1,4,weapon,nature,early
+87027,Boil-Blood Outlaw,1,2,2,creature,war,early
+87078,Stack the Deck,5,0,0,spell,deception,early
+369,"Circe, Vengeful Sorceress",7,3,3,creature,magic,late
+100068,"Tetria, Young Manaborn",1,3,3,creature,neutral,early
+1110,"Echophon, Atlantean Hydra",9,6,10,creature,neutral,late
+295,Ferocious Rougarou,5,4,4,creature,nature,late
+189,Iron Kopis,5,5,2,weapon,war,late
+388,Nethersaur,6,6,6,creature,deception,late
+1174,Vrock,3,4,3,creature,death,late
+159,Bulwark of the Sky,7,6,7,creature,neutral,late
+100134,Rogue Skulker,1,1,1,creature,neutral,early
+946,Valknir Zealot,1,2,2,creature,war,early
+1244,Manathirst Golem,5,4,4,creature,magic,late
+1125,Made Mark,1,0,2,creature,deception,early
+222,Bast's Claws,6,3,4,weapon,war,late
+87005,Vanguard Axewoman,2,2,3,creature,neutral,early
+110,Reinforcements,3,0,0,spell,war,early
+100800,Experimental Outcome,2,3,2,creature,death,early
+1058,Bright Mage,3,3,3,creature,light,late
+391,Howler Golem,7,5,5,creature,neutral,late
+59,Expectant Chicken,1,1,1,creature,neutral,early
+239,Bonepact Hunter,4,3,3,creature,neutral,late
+942,Beast Speaker,4,3,3,creature,nature,late
+1176,Amazon Spearsoul,2,4,2,creature,neutral,late
+302,Lightfoot Informant,2,1,2,creature,deception,early
+11,Gloam Druid,2,2,2,creature,nature,early
+87006,Volatile Imp,1,2,1,creature,neutral,early
+322,Holy Writ,2,0,0,spell,light,early
+1204,Ballista,3,0,3,creature,neutral,early
+293,Lore & Order Inspector,1,2,2,creature,light,early
+1048,Valewarden Minotaur,5,5,5,creature,nature,late
+100061,Spirit Beast,1,1,1,creature,neutral,early
+920,Trial of the First Pillar,6,0,0,spell,light,early
+89,Lupine Elemental,5,4,6,creature,neutral,late
+225,Deathwish Thanetar,16,4,4,creature,neutral,late
+10,Catacomb Curator,1,1,2,creature,death,early
+307,Out of Its Misery,1,0,0,spell,war,early
+100113,Enrage,2,0,0,god power,war,early
+1106,Cyclops Marksman,6,4,7,creature,neutral,late
+1114,Redfume Serum,5,0,0,spell,war,early
+1039,"Frey, Archmage of Selene",8,4,7,creature,magic,late
+87003,Dockside Prowler,1,2,2,creature,neutral,early
+100108,Blood Ritual,2,0,0,god power,death,early
+810,Cruel Overseer,3,3,4,creature,death,late
+914,Aeona's Defection,5,0,0,spell,nature,early
+152,"Odysseus, Tried Victor",5,3,7,creature,neutral,late
+100142,Propyrean Owl,3,4,2,creature,neutral,late
+1108,"Ladon, Uclid Dragon",8,12,12,creature,neutral,late
+1093,Svart Basilisk,4,4,4,creature,neutral,late
+800,Nether's Advocate,2,1,1,creature,death,early
+87059,Feast on the Dead,1,0,0,spell,death,early
+1072,Aether Battlescout,3,5,2,creature,neutral,late
+278,Wilds Lifebonder,2,1,3,creature,nature,early
+201,Mugging,2,0,0,spell,deception,early
+888,Militant Gladiator,5,4,4,creature,neutral,late
+1051,"Grendel, Night Terror",8,6,6,creature,war,late
+9,Nether Nanny,4,4,4,creature,neutral,late
+1180,Enduring Shield,2,1,4,weapon,war,early
+1225,Fleshbind,1,0,0,spell,death,early
+825,"Pallas, Champion of Magic",3,1,4,creature,magic,late
+100160,Overgrown Golem,3,0,5,creature,nature,late
+871,Xanthe of Tartessos,3,3,3,creature,war,late
+87073,Bedeviled Shadow,3,3,3,creature,deception,late
+817,Form of Unity,3,0,0,spell,magic,early
+305,Raiding Kraken,9,3,5,creature,neutral,late
+191,Roadside Outfitter,4,2,2,creature,war,late
+100054,Rune of Life,2,0,0,spell,neutral,early
+100153,Tough Malfunctioning Artifice,1,1,5,creature,neutral,early
+828,"Neferu, Champion of Death",6,3,5,creature,death,late
+1033,"Cerberus, Styx Hound",7,5,6,creature,death,late
+87035,Ramshackle Hatchet,2,3,1,weapon,war,early
+1172,Traveling Bard,4,3,2,creature,neutral,late
+332,Heads or Tails,2,0,0,spell,deception,early
+1153,Time-Bomb,2,3,2,creature,magic,early
+100063,Malfunctioning Artifice,1,1,1,creature,neutral,early
+375,Jaguar Rider,4,6,3,creature,neutral,late
+87001,Springbloom Hunter,1,2,2,creature,neutral,early
+318,Lightdaemon King,5,2,4,creature,light,late
+827,"Valka, Champion of War",9,9,9,creature,war,late
+362,Dimension Door,1,0,0,spell,magic,early
+4,Influential Incubus,3,2,1,creature,neutral,early
+238,Outcast Amazon,3,2,3,creature,neutral,late
+1191,Trapdoor,2,0,0,spell,deception,early
+1152,Tamed Mammoth,4,3,5,creature,war,late
+1137,Reckoning,1,0,0,spell,war,early
+931,Soul Shatter,3,0,0,spell,death,early
+1237,Serene Blade,4,0,4,weapon,light,late
+1119,Makeshift Shiv,1,1,5,weapon,deception,early
+852,Hooded Figure,5,6,3,creature,deception,late
+87040,Brilliant Intervention,2,0,0,spell,light,early
+1250,Street Conjuror,1,1,3,creature,magic,early
+801,"Diones, Spectral Sceptic",3,2,3,creature,death,late
+1064,Ritual Rod,1,2,2,weapon,light,early
+87079,Spiked Tea,4,0,0,spell,deception,early
+64,Avatar of Light,7,7,7,creature,light,late
+1065,Hallowing Light,2,0,0,spell,light,early
+93,Hall of Mirrors,1,0,0,spell,deception,early
+100156,Strong Malfunctioning Artifice,1,5,1,creature,neutral,early
+100046,Mirror,1,0,2,creature,deception,early
+1179,Penthesilean Warrior,5,6,3,creature,neutral,late
+99,"Hades, Underworld Lord",8,5,9,creature,death,late
+87019,Hired Muscle,6,6,5,creature,neutral,late
+371,Specialist Force,5,0,0,spell,nature,early
+1086,Helian Elite,8,10,12,creature,neutral,late
+1140,Viking Bloodguard,3,2,2,creature,neutral,early
+370,"Nature, Overgrown",7,0,0,spell,nature,early
+1235,Feral Shapeshifter,5,3,4,creature,neutral,late
+197,Returned Einherjar,5,3,5,creature,war,late
+1061,Blind Martyr,1,1,2,creature,light,early
+100050,Protected Anim,2,2,2,creature,neutral,early
+104,Raze Imp,1,2,2,creature,neutral,early
+224,Ocular Fiend,6,3,3,creature,neutral,late
+74,Recursion,2,0,0,spell,magic,early
+345,The Mastermind,4,1,2,creature,deception,early
+100121,Animal Bond,2,0,0,god power,nature,early
+1040,Green Giant,6,6,8,creature,nature,late
+382,Pyrocannon,1,0,3,weapon,death,early
+1230,Inconspicuous Carriage,4,2,6,creature,deception,late
+137,Wrath Zealot,7,1,4,creature,neutral,late
+834,Neferu's Khopesh,4,0,3,weapon,death,early
+368,Aeneas,6,3,3,creature,war,late
+939,Planetar Sage,4,4,5,creature,magic,late
+29,"Hephaestus, The Enchanter",4,4,4,creature,war,late
+864,Mountain Raider,4,2,2,creature,war,late
+1156,Inspirator,2,1,1,creature,neutral,early
+87068,Versatile Conjuration,3,0,0,spell,magic,early
+309,Demoralise,1,0,0,spell,war,early
+247,Dragon Tooth Warrior,5,3,3,creature,neutral,late
+921,Trial of the False Reflection,7,0,0,spell,magic,early
+60,Pallbearer,3,1,1,creature,death,early
+380,Atlantean Rex,6,9,4,creature,neutral,late
+389,Cryodyne Trident,3,1,3,weapon,nature,early
+87060,Just a Nibble,2,0,0,spell,death,early
+395,Golden Golem,5,7,7,creature,neutral,late
+108,Carcass Vulture,2,1,1,creature,nature,early
+947,Fenris Berserker,3,4,3,creature,war,late
+77,Enraged Ally,2,2,2,creature,neutral,early
+1012,Starshard Bolt,2,0,0,spell,magic,early
+198,"War, Incarnate",7,0,0,spell,war,early
+1002,Avalanche Strike,2,0,0,spell,war,early
+1186,The Hunt,6,0,0,spell,nature,early
+1170,Tartessian Skirmisher,3,3,3,creature,war,late
+851,Larcenous Pan,2,1,3,creature,deception,early
+183,Leyline Djinn,11,4,4,creature,neutral,late
+87049,Aspect of the Axolotl,3,0,0,spell,nature,early
+1097,Shieldbearer,1,1,1,creature,neutral,early
+153,Fanatic of Khnum,2,3,2,creature,death,early
+1256,Pack Stalk,1,0,0,spell,nature,early
+1177,Hardened Channeler,5,4,3,creature,neutral,late
+231,Pyramid Warden,2,2,6,creature,neutral,late
+1107,Pharaoh's Guard,4,4,2,creature,neutral,late
+1116,Exorcise,5,0,0,spell,deception,early
+1091,Blackguard,8,12,10,creature,neutral,late
+87033,Call to Arms,3,0,0,spell,war,early
+267,Sarcophagus,2,0,6,creature,death,late
+155,"Jason, Medea's Muse",3,3,3,creature,neutral,late
+186,Balance Summoner,2,2,3,creature,neutral,early
+100115,Summon Acolyte,3,0,0,god power,light,early
+1080,"Balthazar, Blood Magus",2,3,2,creature,neutral,early
+1252,Living Container,2,1,1,creature,death,early
+1028,Famished Ghoul,4,4,4,creature,death,late
+393,The Iron Horse,7,5,5,creature,neutral,late
+73,Golem Excavator,7,6,7,creature,neutral,late
+100118,Chosen Visions,2,0,0,god power,light,early
