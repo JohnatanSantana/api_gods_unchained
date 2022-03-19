@@ -1,6 +1,3 @@
-from sys import prefix
-import numpy as np
-import pandas as pd
 from fastapi import FastAPI
 from src.routes.predict_strategy import router as router_strategy
 

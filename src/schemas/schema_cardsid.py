@@ -7,6 +7,6 @@ class CardsID(BaseModel):
     class Config:
         schema_extra = {
             "example": {
-                        "id":	1118
-                }
+                "id":	1118
+            }
         }

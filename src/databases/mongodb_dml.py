@@ -1,6 +1,8 @@
+# pylint: disable=raise-missing-from
 from fastapi import HTTPException
 from pymongo.errors import ExecutionTimeout
 from src.databases.mongodb import get_collection
+
 
 def read_from_mongodb(collection_name: str, data_id: int) -> dict:
     """
@@ -13,11 +15,13 @@ def read_from_mongodb(collection_name: str, data_id: int) -> dict:
         collection = get_collection(collection_name)
         query_result = collection.find_one({"id": data_id})
         if query_result is None:
-            raise HTTPException(status_code=404, detail=f"Card ID {data_id} not found in our database")
+            raise HTTPException(
+                status_code=404, detail=f"Card ID {data_id} not found in our database")
         query_result.pop('_id')
         return query_result
     except ExecutionTimeout:
-        raise ExecutionTimeout("Timeout when trying to read from cosmos") 
+        raise ExecutionTimeout("Timeout when trying to reading data cosmos")
+
 
 def write_many(collection_name: str, data: dict) -> None:
     """
@@ -30,4 +34,4 @@ def write_many(collection_name: str, data: dict) -> None:
         collection = get_collection(collection_name)
         collection.insert_many(data)
     except ExecutionTimeout:
-        raise ExecutionTimeout("Timeout when trying to read from cosmos")       
+        raise ExecutionTimeout("Timeout when trying to read from cosmos")
