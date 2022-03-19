@@ -32,8 +32,9 @@ http://localhost:8081/db/godcards/cards
 ```
 Incluir gif
 ### To Do
+- [ ] - Diminuir tamanho da imagem do docker
 - [ ] - criar sh
-- [ ] - Testes.
-- [ ] - k8s.
-- [ ] - async para o mongo.
+- [ ] - Testes
+- [ ] - k8s
+- [ ] - async para o mongo
 - [ ] - Router para incluir novos cards
