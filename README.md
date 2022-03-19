@@ -28,15 +28,18 @@ Acesse pelo navegador o link abaixo
 >  http://localhost:8000/docs
 
 
-![alt](/images/api.png)
+
+![alt](/images/api_image.png)
+
 
 Visualizar quais dados existem no Database:
 
 >  http://localhost:8081/db/godsUnchained/cards
 
-![alt](/images/mongodb_ui.png)
+![alt](/images/mongodbui.png)
 
 ## Stack <a name="stack"> </a>
+
 Nesse Projeto estamos utilizando:
 - [FastAPI](https://fastapi.tiangolo.com/)
 - [MongoDB](https://www.mongodb.com/)
