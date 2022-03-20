@@ -7,10 +7,11 @@
  
 ### Requeriments para executar o projeto <a name="requeriments"></a>
 Você vai precisar ter instalado na sua maquina:
-- Docker version 20.10.8.
-- Docker Compose version 1.29.2.
+- [Git](https://git-scm.com/downloads)
+- [Docker version 20.10.8](https://docs.docker.com/get-docker/)
+- [Docker Compose version 1.29.2](https://docs.docker.com/compose/install/)
 
-### Como usar <a name="howto"></a>
+### Como executar <a name="howto"></a>
 Baixar repositorio
 
 ```
