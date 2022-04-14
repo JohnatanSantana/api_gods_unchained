@@ -141,3 +141,6 @@ mlflow.db
 
 #data
 data/mongo*
+
+#vscode
+.vscode
