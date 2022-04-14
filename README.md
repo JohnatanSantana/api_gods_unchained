@@ -58,9 +58,9 @@ Facilidade de criar Container e reproduzir localmente em qualquer maquina.
 
 ### To Do
 - [ ] - Diminuir tamanho da imagem do docker
-- [ ] - criar sh
 - [ ] - Testes
 - [ ] - k8s
+- [ ] - criar sh
 - [ ] - async para o mongo
 - [ ] - Router para incluir novos cards
 - [ ] - Container com MLFlow
