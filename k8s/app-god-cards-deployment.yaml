@@ -1,0 +1,40 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  annotations:
+    kompose.cmd: kompose convert
+    kompose.version: 1.26.0 (40646f47)
+  creationTimestamp: null
+  labels:
+    io.kompose.service: app-god-cards
+  name: app-god-cards
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      io.kompose.service: app-god-cards
+  strategy: {}
+  template:
+    metadata:
+      annotations:
+        kompose.cmd: kompose convert
+        kompose.version: 1.26.0 (40646f47)
+      creationTimestamp: null
+      labels:
+        io.kompose.service: app-god-cards
+    spec:
+      containers:
+        - image: api_gods_unchained_app_god_cards
+          imagePullPolicy: Never
+          livenessProbe:
+            exec:
+              command:
+                - wget
+                - http://app_god_cards:8000/healthcheck
+            periodSeconds: 10
+          name: app-god-cards
+          ports:
+            - containerPort: 8000
+          resources: {}
+      restartPolicy: Always
+status: {}
